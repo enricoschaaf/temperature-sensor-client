@@ -1,0 +1,6 @@
+.venv
+.env
+*.crt
+*.pem
+*.key
+.vscode
